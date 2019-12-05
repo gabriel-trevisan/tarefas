@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tarefas/static/css/main.b100e6da.chunk.css",
+    "main.js": "/tarefas/static/js/main.8251a014.chunk.js",
+    "main.js.map": "/tarefas/static/js/main.8251a014.chunk.js.map",
+    "runtime-main.js": "/tarefas/static/js/runtime-main.5b19e9e1.js",
+    "runtime-main.js.map": "/tarefas/static/js/runtime-main.5b19e9e1.js.map",
+    "static/js/2.e350238b.chunk.js": "/tarefas/static/js/2.e350238b.chunk.js",
+    "static/js/2.e350238b.chunk.js.map": "/tarefas/static/js/2.e350238b.chunk.js.map",
+    "index.html": "/tarefas/index.html",
+    "precache-manifest.8e940cd0eccd8b8b9d812b4433a1ca2f.js": "/tarefas/precache-manifest.8e940cd0eccd8b8b9d812b4433a1ca2f.js",
+    "service-worker.js": "/tarefas/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/tarefas/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b19e9e1.js",
+    "static/js/2.e350238b.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.8251a014.chunk.js"
+  ]
+}
